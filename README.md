@@ -78,7 +78,7 @@ A simple **Hospital Management System** built using **Core Java** and **MySQL** 
 2. Compile the project
    Ensure you have the MySQL JDBC driver (mysql-connector-java) added to your classpath.
    ```
-  javac -cp ".;path/to/mysql-connector-java.jar" HospitalManagementSystem/*.java
+   javac -cp ".;path/to/mysql-connector-java.jar" HospitalManagementSystem/*.java
 
 
 3. Run the application

@@ -9,7 +9,7 @@ public class HospitalManagementSystem {
 
 	private static final String username = "root";
 
-	private static final String password = ".#@meghafor17";
+	private static final String password = "1234";
 
 	public static void main(String[] args) throws SQLException {
 		try{
